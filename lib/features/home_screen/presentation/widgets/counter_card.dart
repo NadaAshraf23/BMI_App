@@ -22,7 +22,7 @@ class CounterCard extends StatelessWidget {
     return CustomCard(
       height: 250,
       child: Column(
-        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+        mainAxisAlignment: .spaceEvenly,
         children: [
           Text(
             title,
